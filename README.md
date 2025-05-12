@@ -1,19 +1,11 @@
 # Welcome 🙋🏻‍♂️ <br>I am Millennial Dev!
 
 <a href='https://goo.gl/maps/HNaS9wb6QTWNHktK8'><img align="left" alt="location" src="./assets/map.svg" height='18px'/></a>
-<a href='https://spenserwellen.me/'><img align="left" alt="resume" src="./assets/resume.svg" height='18px'/></a>
-<a href='https://spenserwellen.work/'><img align="left" alt="portfolio" src="./assets/portfolio.svg" height='18px'/></a>
 <a href='mailto:spenserwellen@gmail.com'><img align="left" alt="e-mail" src="./assets/mail.svg" height='18px'/></a>
-<a href='tel:555-666-7777'><img align="left" alt="phone" src="./assets/phone.svg" height='18px'/></a>
 <a href='https://www.linkedin.com/in/spenserwellen/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
-<a href='https://stackoverflow.com/users/14072664/millennialdev'><img align="left" alt="stackoverflow" src="./assets/stackoverflow.svg" height='18px'/></a>
-<a href='https://twitter.com/spenserwellen'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 <a href='https://www.behance.net/spenserwellen'><img align="left" alt="behance" src="./assets/behance.svg" height='18px'/></a>
 <a href='https://codepen.io/millennialdev'><img align="left" alt="codepen" src="./assets/codepen.svg" height='18px'/></a>
-<a href='https://dribbble.com/millennialdev'><img align="left" alt="dribble" src="./assets/dribble.svg" height='18px'/></a>
 <a href='https://github.com/djsuspense'><img alt="github" src="./assets/github.svg" height='18px'/></a>
-<a href='https://gitlab.com/millennialdev'><img align="left" alt="gitlab" src="./assets/gitlab.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/spenserwellen'><img align="left" alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
 ### Introduction &nbsp;🚀
 
@@ -41,7 +33,6 @@ If you feel so inclined, you can buy me a coffee <a href="https://www.buymeacoff
 - 🎓 &nbsp; I studied Mechanical Engineering during university
 - 💬 &nbsp; Ask me about anything software/tech related!
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/spenserwellen/" target="_blank">Linkedin</a>
-- 📝 &nbsp; Checkout my <a href="https://spenserwellen.me/" target="_blank">Résumé</a>
 
 <br>
 

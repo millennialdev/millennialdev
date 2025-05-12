@@ -41,9 +41,7 @@ If you feel so inclined, you can buy me a coffee <a href="https://www.buymeacoff
 - 🎓 &nbsp; I studied Mechanical Engineering during university
 - 💬 &nbsp; Ask me about anything software/tech related!
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/spenserwellen/" target="_blank">Linkedin</a>
-- 📅 &nbsp; Book some time with me on <a href="https://calendly.com/spenserwellen/30min" target="_blank">Calendly</a>
 - 📝 &nbsp; Checkout my <a href="https://spenserwellen.me/" target="_blank">Résumé</a>
-- 📚 &nbsp; If you enjoy science fiction, take a look at my <a href="https://www.goodreads.com/millennialdev" target="_blank">Goodreads</a>
 
 <br>
 

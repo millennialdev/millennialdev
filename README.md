@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-spenser.ai-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spenser.ai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spenserwellen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nomadofarcadiabay/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spenserwellen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spenserwellen@gmail.com?subject=Let's%20Connect%20-%20Found%20Your%20GitHub&body=Hi%20Spenser,%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20love%20to%20connect%20and%20discuss%20potential%20opportunities.%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you!%0D%0A%0D%0ABest%20regards,)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Applications;Scaling+to+19M%2B+Users;From+Startups+to+Enterprise;Full-Stack+%2B+Cloud+%2B+DevOps" alt="Typing SVG" />
 
@@ -134,7 +134,7 @@ I'm a **Senior Software Engineer** with a builder's mindset and a track record o
 ```javascript
 const spenserWellen = {
   title: "Senior Software Engineer",
-  location: "Portland, OR",
+  location: "Greater Seattle Area",
   expertise: ["Full-Stack", "Cloud Architecture", "AI Integration", "DevOps"],
   
   skills: {
@@ -162,7 +162,7 @@ I'm always interested in discussing **innovative projects**, **AI integration op
   <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss...">
+<a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20was%20really%20impressed%20by%20your%20work,%20especially%20your%20AI%20integration%20projects.%20I'd%20love%20to%20connect%20and%20discuss%20potential%20collaboration%20opportunities.%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you!%0D%0A%0D%0ABest%20regards,">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 

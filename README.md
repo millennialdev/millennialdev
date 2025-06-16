@@ -1,80 +1,183 @@
-# Welcome 🙋🏻‍♂️ <br>I am Millennial Dev!
+<div align="center">
+  
+# 🚀 Spenser Wellen
+### Senior Software Engineer | Full-Stack Architect | AI Integration Specialist
 
-<a href='https://goo.gl/maps/HNaS9wb6QTWNHktK8'><img align="left" alt="location" src="./assets/map.svg" height='18px'/></a>
-<a href='mailto:spenserwellen@gmail.com'><img align="left" alt="e-mail" src="./assets/mail.svg" height='18px'/></a>
-<a href='https://www.linkedin.com/in/spenserwellen/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.behance.net/spenserwellen'><img align="left" alt="behance" src="./assets/behance.svg" height='18px'/></a>
-<a href='https://codepen.io/millennialdev'><img align="left" alt="codepen" src="./assets/codepen.svg" height='18px'/></a>
-<a href='https://github.com/djsuspense'><img alt="github" src="./assets/github.svg" height='18px'/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-spenser.ai-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spenser.ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spenserwellen/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nomadofarcadiabay/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spenserwellen@gmail.com)
 
-### Introduction &nbsp;🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Applications;Scaling+to+19M%2B+Users;From+Startups+to+Enterprise;Full-Stack+%2B+Cloud+%2B+DevOps" alt="Typing SVG" />
 
-Thank you for coming to my profile. I am a Multi-talented Software Engineer 👨🏻‍💻&nbsp;&nbsp;🌐 with over 5+ years of experience in wide range of engineering disciplines 🤖&nbsp;⚙️. I am Passionate about innovative design 🎨, and while working in the robotics &amp; automation industry, I found a love for writing software.
-<br/>
-<br/>
-I enjoy exploring the outdoors in my free time when I am not coding<br/>🏕 🏔 🏞
-<br/>
-<br/>
+</div>
 
-Nothing beats coding to lofi beats in my opinion 🎧&nbsp;💽, with some herbal tea or coffee ☕️.
-If you feel so inclined, you can buy me a coffee <a href="https://www.buymeacoffee.com/millennialdev" target="_blank">here</a>, to support my work ☺️.
+---
 
-<img align="right" alt="scrolling computer graphics interchange" src="./computer.gif" width="360px"/>
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 
-<br>
+### 👋 About Me
 
-### 🧐 More About Me:
+I'm a **Senior Software Engineer** with a builder's mindset and a track record of delivering scalable solutions from early-stage startups to enterprise systems serving **19M+ users**.
 
-- 🔭 &nbsp; I’m currently working on <a href="https://upgather.com/" target="_blank">Upgather</a>
-- 💼 &nbsp; Employed at <a href="https://scoopnewsgroup.com/" target="_blank">Scoop News Group</a>
-- 🤝 &nbsp; Looking to collaborate on <b>cool open source projects</b>
-- 💡 &nbsp; Currently learning a lot about 3D libraries &amp; Vim
-- 🔬 &nbsp; Many of my projects are available on <a href="https://github.com/millennialdev?tab=repositories" target="_blank">Github</a>
-- 🎓 &nbsp; I studied Mechanical Engineering during university
-- 💬 &nbsp; Ask me about anything software/tech related!
-- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/spenserwellen/" target="_blank">Linkedin</a>
+🔧 **Currently Building**: AI-powered applications that move fast & scale with confidence  
+🏢 **Experience**: Full-stack engineering, cloud architecture, and AI integration  
+🎯 **Mission**: Turning complex challenges into efficient, mission-driven products
 
-<br>
+### 🛠️ Tech Stack
 
-### 🛠 Languages and Tools:
+<div align="left">
+  
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" height ="42px"  src="./tools/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./tools/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./tools/react.svg"></a>
-<a href="https://www.gatsbyjs.com/" target="_blank"><img align="left" src="./tools/gatsby.svg" alt="Gatsby" height ="42px"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="./tools/git.svg" align="left" alt="Git" height='42px'/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="./tools/bootstrap.svg" alt="Bootstrap" height ="42px"/></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./tools/node.svg"></a>
-<a href="https://redux.js.org/" target="_blank"><img align="left" src="./tools/redux.svg" alt="Redux" height ="42px"/></a>
-<a href="https://www.figma.com" target="_blank"><img align="left" src="./tools/figma.svg" alt="Redux" height ="42px"/></a>
-<a href="https://graphql.org/" target="_blank"><img align="left" src="./tools/graphql.svg" alt="GraphQL" height ="42px"/></a>
-<a href="https://babeljs.io/" target="_blank"><img align="left" src="./tools/babel.svg" alt="Babel" height ="42px"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img align="left" src="./tools/sass.svg" alt="Yarn" height ="42px"/></a>
-<a href="https://www.shopify.com/" target="_blank"><img align="left" src="./tools/shopify.svg" alt="Shopify" height ="42px"/></a>
-<a href="https://www.php.net/" target="_blank"><img align="left" src="./tools/php.svg" alt="PHP" height ="42px"/></a>
+**Backend & Cloud**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+**AI & Data**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkwyMiAyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
+![Vector Stores](https://img.shields.io/badge/Vector_Stores-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### 📊 Github Stats
+</div>
 
-<br>
+---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=millennialdev&theme=nord&show_icons=true&count_private=false)
+### 🚀 Featured Projects
 
-<br>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">VADO - AI PropTech Platform</h3>
+      <div align="center">
+        <a href="https://vadoapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🏠_Live_Site-FF6B6B?style=for-the-badge" alt="Live Site"/>
+        </a>
+        <p><strong>Tech:</strong> Astro, Next.js, React Native, OpenAI, Twilio</p>
+        <p>AI-powered home touring platform revolutionizing real estate</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Gather AI - News Aggregator</h3>
+      <div align="center">
+        <a href="https://gather.aiscoop.com/" target="_blank">
+          <img src="https://img.shields.io/badge/📰_Live_Site-4285F4?style=for-the-badge" alt="Live Site"/>
+        </a>
+        <p><strong>Tech:</strong> Next.js, Gemini AI, LlamaIndex, RAG</p>
+        <p>Real-time AI news platform with vector search</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AIWeek Chatbot</h3>
+      <div align="center">
+        <a href="https://aiweek.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🤖_Live_Site-00D4FF?style=for-the-badge" alt="Live Site"/>
+        </a>
+        <p><strong>Tech:</strong> Next.js, OpenAI, AWS, Strapi CMS</p>
+        <p>Enterprise chatbot serving 19M+ engagements</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Away From Office</h3>
+      <div align="center">
+        <a href="https://awayfromoffice.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/✈️_Live_Site-00C7B7?style=for-the-badge" alt="Live Site"/>
+        </a>
+        <p><strong>Tech:</strong> React, Mailgun, Claude AI, Google Workspace</p>
+        <p>Company-wide offsite management tool</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=millennialdev&theme=nord&layout=compact)
+---
 
-<br>
+### 📊 GitHub Analytics
 
-<!--
-### 🛠️ My Projects
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millennialdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millennialdev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-<a href="https://github.com/millennialdev/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/millennialdev/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/millennialdev/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/millennialdev/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millennialdev&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🏆 Achievements & Impact
+
+<div align="center">
+  
+| 🎯 Metric | 📈 Achievement |
+|-----------|----------------|
+| **Users Served** | 19M+ unique engagements |
+| **Performance** | 50→90% Lighthouse score improvements |
+| **Scale** | Built systems handling millions without downtime |
+| **Innovation** | Pioneered AI integration in prop-tech & news aggregation |
+
+</div>
+
+---
+
+### 💼 What I Bring to the Table
+
+```javascript
+const spenserWellen = {
+  title: "Senior Software Engineer",
+  location: "Portland, OR",
+  expertise: ["Full-Stack", "Cloud Architecture", "AI Integration", "DevOps"],
+  
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Three.js", "Tailwind"],
+    backend: ["Node.js", "GraphQL", "REST APIs", "Microservices"],
+    cloud: ["AWS", "Lambda", "ECS", "S3", "CDK"],
+    ai: ["OpenAI", "LlamaIndex", "RAG", "Vector Stores"],
+    tools: ["Docker", "CI/CD", "Git", "Terraform"]
+  },
+  
+  currentFocus: "Building AI-powered applications that scale",
+  motto: "Start with people • Solve with code • Scale with care"
+};
+```
+
+---
+
+### 🌟 Let's Connect!
+
+<div align="center">
+  
+I'm always interested in discussing **innovative projects**, **AI integration opportunities**, and **scalable architecture challenges**.
+
+<a href="https://spenser.ai/">
+  <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss...">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=millennialdev&style=for-the-badge&color=FF6B6B" alt="Profile Views"/>
+  
+  ### 🎵 When I'm not coding...
+  
+  🏔️ Hiking ridgelines | 🚗 Modding cars | 📸 Nature photography | 🎧 DJing & curating playlists
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ and lots of ☕ by Spenser Wellen</sub>
+</div>

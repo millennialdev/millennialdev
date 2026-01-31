@@ -108,12 +108,12 @@ flowchart LR
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=millennialdev&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millennialdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="langs" />
+  <img src="assets/cyberpunk/stats.svg" height="170" alt="stats" />
+  <img src="assets/cyberpunk/languages.svg" height="170" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millennialdev&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="assets/cyberpunk/streak.svg" width="100%" alt="streak" />
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@ flowchart LR
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=millennialdev&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="assets/cyberpunk/trophies.svg" width="100%" alt="trophies" />
 </div>
 
 <div align="center">

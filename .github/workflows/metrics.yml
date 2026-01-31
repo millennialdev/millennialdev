@@ -40,6 +40,18 @@ jobs:
           config_display: large
           config_border: none
 
+      - name: Generate streak card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/cyberpunk/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: millennialdev
+          template: classic
+          base: ""
+          plugin_streak: yes
+          config_display: large
+          config_border: none
+
       - name: Generate trophies card
         uses: lowlighter/metrics@latest
         with:
@@ -58,4 +70,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update metrics"
-          file_pattern: assets/cyberpunk/stats.svg assets/cyberpunk/languages.svg assets/cyberpunk/trophies.svg
+          file_pattern: assets/cyberpunk/stats.svg assets/cyberpunk/languages.svg assets/cyberpunk/streak.svg assets/cyberpunk/trophies.svg

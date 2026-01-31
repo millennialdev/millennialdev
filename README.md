@@ -112,17 +112,17 @@ flowchart LR
   <img src="assets/cyberpunk/languages.svg" height="170" alt="langs" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/cyberpunk/streak.svg" width="100%" alt="streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=millennialdev&theme=tokyo-night&hide_border=true" alt="activity" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/cyberpunk/trophies.svg" width="100%" alt="trophies" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="assets/cyberpunk/snake.svg" width="100%" alt="snake" />

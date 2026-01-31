@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2fffd5,100:7b2fff&height=210&section=header&text=Spenser%20Wellen&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%2B%20Full-Stack&descAlignY=75&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2fffd5,100:7b2fff&height=280&section=header&text=millennialdev&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%2B%20Full-Stack&descAlignY=78&descSize=18" alt="header" />
 </div>
 
 <div align="center">
-  <img src="assets/cyberpunk/avatar-neon-frame.svg" width="200" alt="avatar" />
+  <img src="assets/cyberpunk/avatar-badge.png" width="200" alt="avatar" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=2FFFD5&center=true&vCenter=true&random=false&width=900&lines=Building+AI-powered+systems;Scaling+products+to+19M%2B+engagements;Full-stack+%2B+Cloud+%2B+AI+Integration;Cyberpunk+builder+with+a+systems+mindset" alt="typing" />
   <br />
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/spenserwellen/">
     <img src="https://img.shields.io/badge/LinkedIn-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="LinkedIn" />
   </a>
-  <a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20love%20to%20connect.%0D%0A%0D%0ABest%2C">
+  <a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20there,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20love%20to%20connect.%0D%0A%0D%0ABest%2C">
     <img src="https://img.shields.io/badge/Email-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Email" />
   </a>
   <a href="https://www.instagram.com/nomadofarcadiabay/">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<img src="assets/cyberpunk/scanline.gif" width="100%" alt="scanline" />
+<img src="assets/cyberpunk/hero-orb.png" width="100%" alt="hero" />
 
 ## AI + Scale Impact
 
@@ -36,11 +36,6 @@ I build AI-powered products that ship fast, scale confidently, and feel crisp to
 
 <div align="center">
   <img src="assets/cyberpunk/terminal-card.png" width="900" alt="terminal card" />
-</div>
-
-<div align="center">
-  <img src="assets/cyberpunk/avatar-holo.png" width="160" alt="holo" />
-  <img src="assets/cyberpunk/avatar-neon.png" width="160" alt="neon" />
 </div>
 
 <img src="assets/cyberpunk/circuit-divider-1.svg" width="100%" alt="divider" />
@@ -63,7 +58,7 @@ I build AI-powered products that ship fast, scale confidently, and feel crisp to
   <tr>
     <td width="50%" valign="top">
       <h3>ADONIC — AI Facial Analysis</h3>
-      <img src="assets/cyberpunk/cyber-computer-cyan.gif" width="100%" alt="adonic" />
+      <img src="assets/cyberpunk/adonic-card.png" width="100%" alt="adonic" />
       <p>AI-powered deep facial analysis with same-day results, built around privacy-first data handling and a frictionless one-time purchase.</p>
       <p><strong>Highlights:</strong> 10-category analysis, PDF report delivery, 120-day secure retention with auto deletion.</p>
       <a href="https://www.adonic.app/">
@@ -72,7 +67,7 @@ I build AI-powered products that ship fast, scale confidently, and feel crisp to
     </td>
     <td width="50%" valign="top">
       <h3>VADO — AI PropTech Platform</h3>
-      <img src="assets/cyberpunk/cyber-computer-purple.gif" width="100%" alt="vado" />
+      <img src="assets/cyberpunk/vado-card.png" width="100%" alt="vado" />
       <p>AI-powered home touring platform that modernizes property exploration with intelligent routing, automation, and scalable user flows.</p>
       <p><strong>Tech:</strong> Astro, Next.js, React Native, OpenAI, Twilio.</p>
       <a href="https://vadoapp.com/">
@@ -104,7 +99,7 @@ flowchart LR
 - Shipped privacy-first AI products with rapid iteration cycles.
 - Bridged product, engineering, and go-to-market to ship polished systems.
 
-<img src="assets/cyberpunk/neon-wave-divider.svg" width="100%" alt="divider" />
+<img src="assets/cyberpunk/matrix-rain.gif" width="100%" alt="matrix" />
 
 ## Open Source + Activity
 
@@ -133,18 +128,18 @@ flowchart LR
   <img src="assets/cyberpunk/snake.svg" width="100%" alt="snake" />
 </div>
 
-<img src="assets/cyberpunk/scanline.gif" width="100%" alt="scanline" />
+<img src="assets/cyberpunk/data-stream.gif" width="100%" alt="data stream" />
 
 ## Creativity + Hobbies
 
 <div align="center">
-  <img src="assets/cyberpunk/avatar-glitch.gif" width="200" alt="glitch" />
+  <img src="assets/cyberpunk/neon-city.png" width="100%" alt="city" />
 </div>
 
 - Hiking ridgelines, modding cars, nature photography, and curating DJ sets.
 - Experimenting with generative visuals, motion design, and cyberpunk-inspired UI systems.
 
-<img src="assets/cyberpunk/hud-panel.svg" width="100%" alt="hud" />
+<img src="assets/cyberpunk/scanline-2.gif" width="100%" alt="scanline" />
 
 ## Connect
 

@@ -14,29 +14,48 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate metrics
+      - name: Generate stats card
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/cyberpunk/metrics.svg
+          filename: assets/cyberpunk/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: millennialdev
           template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_sections: most-used
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          base: activity, community, repositories, metadata
           config_display: large
           config_border: none
           config_timezone: America/Los_Angeles
+
+      - name: Generate languages card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/cyberpunk/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: millennialdev
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
+          config_display: large
+          config_border: none
+
+      - name: Generate trophies card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/cyberpunk/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: millennialdev
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 8
+          config_display: large
+          config_border: none
 
       - name: Commit updated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update metrics"
-          file_pattern: assets/cyberpunk/metrics.svg
+          file_pattern: assets/cyberpunk/stats.svg assets/cyberpunk/languages.svg assets/cyberpunk/trophies.svg

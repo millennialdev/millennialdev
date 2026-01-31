@@ -1,0 +1,23 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clipCircle">
+      <circle cx="180" cy="180" r="130" />
+    </clipPath>
+    <linearGradient id="ring" x1="0" y1="0" x2="360" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2fffd5"/>
+      <stop offset="1" stop-color="#7b2fff"/>
+    </linearGradient>
+    <filter id="glow" x="-50" y="-50" width="460" height="460" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="360" height="360" fill="#0b0c16"/>
+  <image href="https://avatars.githubusercontent.com/u/6439723" x="50" y="50" width="260" height="260" clip-path="url(#clipCircle)"/>
+  <circle cx="180" cy="180" r="136" stroke="url(#ring)" stroke-width="6" filter="url(#glow)"/>
+  <circle cx="180" cy="180" r="145" stroke="#2fffd5" stroke-width="2" opacity="0.6"/>
+  <circle cx="180" cy="180" r="152" stroke="#7b2fff" stroke-width="2" opacity="0.5"/>
+</svg>

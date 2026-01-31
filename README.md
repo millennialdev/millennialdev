@@ -1,183 +1,161 @@
 <div align="center">
-  
-# 🚀 Spenser Wellen
-### Senior Software Engineer | Full-Stack Architect | AI Integration Specialist
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-spenser.ai-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spenser.ai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spenserwellen/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nomadofarcadiabay/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spenserwellen@gmail.com?subject=Let's%20Connect%20-%20Found%20Your%20GitHub&body=Hi%20Spenser,%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20love%20to%20connect%20and%20discuss%20potential%20opportunities.%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you!%0D%0A%0D%0ABest%20regards,)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Applications;Scaling+to+19M%2B+Users;From+Startups+to+Enterprise;Full-Stack+%2B+Cloud+%2B+DevOps" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2fffd5,100:7b2fff&height=210&section=header&text=Spenser%20Wellen&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%2B%20Full-Stack&descAlignY=75&descSize=18" alt="header" />
 </div>
 
----
-
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-
-### 👋 About Me
-
-I'm a **Senior Software Engineer** with a builder's mindset and a track record of delivering scalable solutions from early-stage startups to enterprise systems serving **19M+ users**.
-
-🔧 **Currently Building**: AI-powered applications that move fast & scale with confidence  
-🏢 **Experience**: Full-stack engineering, cloud architecture, and AI integration  
-🎯 **Mission**: Turning complex challenges into efficient, mission-driven products
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  
-**Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-
-**Backend & Cloud**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
-**AI & Data**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkwyMiAyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
-![Vector Stores](https://img.shields.io/badge/Vector_Stores-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
+<div align="center">
+  <img src="assets/cyberpunk/avatar-neon-frame.svg" width="200" alt="avatar" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=2FFFD5&center=true&vCenter=true&random=false&width=900&lines=Building+AI-powered+systems;Scaling+products+to+19M%2B+engagements;Full-stack+%2B+Cloud+%2B+AI+Integration;Cyberpunk+builder+with+a+systems+mindset" alt="typing" />
+  <br />
+  <a href="https://spenser.ai/">
+    <img src="https://img.shields.io/badge/Portfolio-spenser.ai-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/spenserwellen/">
+    <img src="https://img.shields.io/badge/LinkedIn-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="LinkedIn" />
+  </a>
+  <a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20love%20to%20connect.%0D%0A%0D%0ABest%2C">
+    <img src="https://img.shields.io/badge/Email-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/nomadofarcadiabay/">
+    <img src="https://img.shields.io/badge/Instagram-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="Instagram" />
+  </a>
 </div>
 
----
+<img src="assets/cyberpunk/scanline.gif" width="100%" alt="scanline" />
 
-### 🚀 Featured Projects
+## AI + Scale Impact
+
+I build AI-powered products that ship fast, scale confidently, and feel crisp to end users. My focus is end-to-end: product, data pipelines, model integration, and production reliability.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/19M%2B_Engagements-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="engagements" />
+  <img src="https://img.shields.io/badge/AI-first_Systems-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="ai systems" />
+  <img src="https://img.shields.io/badge/50%E2%86%9290%25_Lighthouse-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="lighthouse" />
+  <img src="https://img.shields.io/badge/Enterprise_scale_delivery-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="scale" />
+</div>
+
+<div align="center">
+  <img src="assets/cyberpunk/terminal-card.png" width="900" alt="terminal card" />
+</div>
+
+<div align="center">
+  <img src="assets/cyberpunk/avatar-holo.png" width="160" alt="holo" />
+  <img src="assets/cyberpunk/avatar-neon.png" width="160" alt="neon" />
+</div>
+
+<img src="assets/cyberpunk/circuit-divider-1.svg" width="100%" alt="divider" />
+
+## Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,threejs,html,css&theme=dark" alt="frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,aws,docker,terraform,postgres,redis,python,fastapi&theme=dark" alt="backend" />
+</div>
+
+<img src="assets/cyberpunk/neon-grid.svg" width="100%" alt="grid" />
+
+<img src="assets/cyberpunk/section-title-bar.svg" width="100%" alt="section" />
+
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">VADO - AI PropTech Platform</h3>
-      <div align="center">
-        <a href="https://vadoapp.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🏠_Live_Site-FF6B6B?style=for-the-badge" alt="Live Site"/>
-        </a>
-        <p><strong>Tech:</strong> Astro, Next.js, React Native, OpenAI, Twilio</p>
-        <p>AI-powered home touring platform revolutionizing real estate</p>
-      </div>
+    <td width="50%" valign="top">
+      <h3>ADONIC — AI Facial Analysis</h3>
+      <img src="assets/cyberpunk/cyber-computer-cyan.gif" width="100%" alt="adonic" />
+      <p>AI-powered deep facial analysis with same-day results, built around privacy-first data handling and a frictionless one-time purchase.</p>
+      <p><strong>Highlights:</strong> 10-category analysis, PDF report delivery, 120-day secure retention with auto deletion.</p>
+      <a href="https://www.adonic.app/">
+        <img src="https://img.shields.io/badge/Live_Product-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="adonic" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Gather AI - News Aggregator</h3>
-      <div align="center">
-        <a href="https://gather.aiscoop.com/" target="_blank">
-          <img src="https://img.shields.io/badge/📰_Live_Site-4285F4?style=for-the-badge" alt="Live Site"/>
-        </a>
-        <p><strong>Tech:</strong> Next.js, Gemini AI, LlamaIndex, RAG</p>
-        <p>Real-time AI news platform with vector search</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AIWeek Chatbot</h3>
-      <div align="center">
-        <a href="https://aiweek.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🤖_Live_Site-00D4FF?style=for-the-badge" alt="Live Site"/>
-        </a>
-        <p><strong>Tech:</strong> Next.js, OpenAI, AWS, Strapi CMS</p>
-        <p>Enterprise chatbot serving 19M+ engagements</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Away From Office</h3>
-      <div align="center">
-        <a href="https://awayfromoffice.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/✈️_Live_Site-00C7B7?style=for-the-badge" alt="Live Site"/>
-        </a>
-        <p><strong>Tech:</strong> React, Mailgun, Claude AI, Google Workspace</p>
-        <p>Company-wide offsite management tool</p>
-      </div>
+    <td width="50%" valign="top">
+      <h3>VADO — AI PropTech Platform</h3>
+      <img src="assets/cyberpunk/cyber-computer-purple.gif" width="100%" alt="vado" />
+      <p>AI-powered home touring platform that modernizes property exploration with intelligent routing, automation, and scalable user flows.</p>
+      <p><strong>Tech:</strong> Astro, Next.js, React Native, OpenAI, Twilio.</p>
+      <a href="https://vadoapp.com/">
+        <img src="https://img.shields.io/badge/Live_Product-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="vado" />
+      </a>
     </td>
   </tr>
 </table>
 
----
+<img src="assets/cyberpunk/circuit-divider-2.svg" width="100%" alt="divider" />
 
-### 📊 GitHub Analytics
+## AI Systems Blueprint
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millennialdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millennialdev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millennialdev&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-### 🏆 Achievements & Impact
-
-<div align="center">
-  
-| 🎯 Metric | 📈 Achievement |
-|-----------|----------------|
-| **Users Served** | 19M+ unique engagements |
-| **Performance** | 50→90% Lighthouse score improvements |
-| **Scale** | Built systems handling millions without downtime |
-| **Innovation** | Pioneered AI integration in prop-tech & news aggregation |
-
-</div>
-
----
-
-### 💼 What I Bring to the Table
-
-```javascript
-const spenserWellen = {
-  title: "Senior Software Engineer",
-  location: "Greater Seattle Area",
-  expertise: ["Full-Stack", "Cloud Architecture", "AI Integration", "DevOps"],
-  
-  skills: {
-    frontend: ["React", "Next.js", "TypeScript", "Three.js", "Tailwind"],
-    backend: ["Node.js", "GraphQL", "REST APIs", "Microservices"],
-    cloud: ["AWS", "Lambda", "ECS", "S3", "CDK"],
-    ai: ["OpenAI", "LlamaIndex", "RAG", "Vector Stores"],
-    tools: ["Docker", "CI/CD", "Git", "Terraform"]
-  },
-  
-  currentFocus: "Building AI-powered applications that scale",
-  motto: "Start with people • Solve with code • Scale with care"
-};
+```mermaid
+flowchart LR
+  A[Product Vision] --> B[Data + Signals]
+  B --> C[AI/Model Layer]
+  C --> D[User Experience]
+  D --> E[Scale + Reliability]
+  E --> B
 ```
 
----
+<img src="assets/cyberpunk/glitch-divider.svg" width="100%" alt="divider" />
 
-### 🌟 Let's Connect!
+## Timeline Highlights
 
-<div align="center">
-  
-I'm always interested in discussing **innovative projects**, **AI integration opportunities**, and **scalable architecture challenges**.
+- Built AI features across startups and enterprise platforms serving millions of users.
+- Led full-stack architecture with cloud-first delivery and performance tuning.
+- Shipped privacy-first AI products with rapid iteration cycles.
+- Bridged product, engineering, and go-to-market to ship polished systems.
 
-<a href="https://spenser.ai/">
-  <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="assets/cyberpunk/neon-wave-divider.svg" width="100%" alt="divider" />
 
-<a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect&body=Hi%20Spenser,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20was%20really%20impressed%20by%20your%20work,%20especially%20your%20AI%20integration%20projects.%20I'd%20love%20to%20connect%20and%20discuss%20potential%20collaboration%20opportunities.%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you!%0D%0A%0D%0ABest%20regards,">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
+## Open Source + Activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=millennialdev&style=for-the-badge&color=FF6B6B" alt="Profile Views"/>
-  
-  ### 🎵 When I'm not coding...
-  
-  🏔️ Hiking ridgelines | 🚗 Modding cars | 📸 Nature photography | 🎧 DJing & curating playlists
+  <img src="assets/cyberpunk/metrics.svg" width="100%" alt="metrics" />
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ and lots of ☕ by Spenser Wellen</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=millennialdev&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millennialdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millennialdev&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=millennialdev&theme=tokyo-night&hide_border=true" alt="activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=millennialdev&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="assets/cyberpunk/snake.svg" width="100%" alt="snake" />
+</div>
+
+<img src="assets/cyberpunk/scanline.gif" width="100%" alt="scanline" />
+
+## Creativity + Hobbies
+
+<div align="center">
+  <img src="assets/cyberpunk/avatar-glitch.gif" width="200" alt="glitch" />
+</div>
+
+- Hiking ridgelines, modding cars, nature photography, and curating DJ sets.
+- Experimenting with generative visuals, motion design, and cyberpunk-inspired UI systems.
+
+<img src="assets/cyberpunk/hud-panel.svg" width="100%" alt="hud" />
+
+## Connect
+
+<div align="center">
+  <a href="https://spenser.ai/">
+    <img src="https://img.shields.io/badge/Portfolio-spenser.ai-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
+  </a>
+  <a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect">
+    <img src="https://img.shields.io/badge/Email-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/spenserwellen/">
+    <img src="https://img.shields.io/badge/LinkedIn-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="LinkedIn" />
+  </a>
 </div>

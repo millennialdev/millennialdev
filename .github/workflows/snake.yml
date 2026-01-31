@@ -1,0 +1,29 @@
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: millennialdev
+          outputs: |
+            assets/cyberpunk/snake.svg
+            assets/cyberpunk/snake.gif
+
+      - name: Commit updated snake assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake animation"
+          file_pattern: assets/cyberpunk/snake.svg assets/cyberpunk/snake.gif

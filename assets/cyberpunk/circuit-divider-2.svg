@@ -1,0 +1,13 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7b2fff"/>
+      <stop offset="0.5" stop-color="#2fffd5"/>
+      <stop offset="1" stop-color="#7b2fff"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 40C100 10 200 70 300 40C400 10 500 70 600 40C700 10 800 70 900 40C1000 10 1100 70 1200 40" stroke="url(#grad2)" stroke-width="3"/>
+  <circle cx="300" cy="40" r="5" fill="#2fffd5"/>
+  <circle cx="600" cy="40" r="5" fill="#7b2fff"/>
+  <circle cx="900" cy="40" r="5" fill="#2fffd5"/>
+</svg>

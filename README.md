@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=2FFFD5&center=true&vCenter=true&random=false&width=900&lines=Building+AI-powered+systems;Scaling+products+to+19M%2B+engagements;Full-stack+%2B+Cloud+%2B+AI+Integration;Cyberpunk+builder+with+a+systems+mindset" alt="typing" />
   <br />
   <a href="https://spenser.ai/">
-    <img src="https://img.shields.io/badge/Portfolio-spenser.ai-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/spenserwellen/">
     <img src="https://img.shields.io/badge/LinkedIn-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="LinkedIn" />
@@ -145,7 +145,7 @@ flowchart LR
 
 <div align="center">
   <a href="https://spenser.ai/">
-    <img src="https://img.shields.io/badge/Portfolio-spenser.ai-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2fffd5?style=for-the-badge&labelColor=0b0c16" alt="Portfolio" />
   </a>
   <a href="mailto:spenserwellen@gmail.com?subject=GitHub%20Profile%20-%20Let's%20Connect">
     <img src="https://img.shields.io/badge/Email-7b2fff?style=for-the-badge&labelColor=0b0c16" alt="Email" />

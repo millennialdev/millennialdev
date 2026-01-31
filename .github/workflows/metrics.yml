@@ -23,7 +23,6 @@ jobs:
           template: classic
           base: activity, community, repositories, metadata
           config_display: large
-          config_border: none
           config_timezone: America/Los_Angeles
 
       - name: Generate languages card
@@ -38,7 +37,6 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_sections: most-used
           config_display: large
-          config_border: none
 
       - name: Generate streak card
         uses: lowlighter/metrics@latest
@@ -48,9 +46,8 @@ jobs:
           user: millennialdev
           template: classic
           base: ""
-          plugin_streak: yes
+          plugin_habits: yes
           config_display: large
-          config_border: none
 
       - name: Generate trophies card
         uses: lowlighter/metrics@latest
@@ -64,7 +61,6 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 8
           config_display: large
-          config_border: none
 
       - name: Commit updated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
